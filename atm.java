@@ -24,10 +24,10 @@ public class atm {
 
                 switch (choice) {
                     case 1:
-                        deposit(bal);
+                        bal = deposit(bal);
                         break;
                     case 2:
-                        withdraw(bal);
+                        bal = withdraw(bal);
                         break;
                     case 3:
                         bal_enq(bal);
@@ -73,8 +73,7 @@ public class atm {
 
     public static int bal_enq(int n) {
         System.out.println("Your balance is: ");
-        System.out.println(n);
-        return bal;
+        System.out.println(n)
     }
 
     public static int pinChange(int n) {

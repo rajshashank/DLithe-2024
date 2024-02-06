@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "unique",
+            "request": "launch",
+            "mainClass": "unique",
+            "projectName": "DLithe-2024_ba53680f"
+        },
+        {
+            "type": "java",
             "name": "array",
             "request": "launch",
             "mainClass": "array",
