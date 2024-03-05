@@ -1,70 +1,84 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "unique",
-            "request": "launch",
-            "mainClass": "unique",
-            "projectName": "DLithe-2024_ba53680f"
-        },
-        {
-            "type": "java",
-            "name": "array",
-            "request": "launch",
-            "mainClass": "array",
-            "projectName": "DLithe-2024_ba53680f"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
-            "name": "atm",
-            "request": "launch",
-            "mainClass": "atm",
-            "projectName": "DLithe-2024_ba53680f"
-        },
-        {
-            "type": "java",
-            "name": "evenodd",
-            "request": "launch",
-            "mainClass": "evenodd",
-            "projectName": "DLithe-2024_ba53680f"
-        },
-        {
-            "type": "java",
-            "name": "math",
-            "request": "launch",
-            "mainClass": "math",
-            "projectName": "DLithe-2024_ba53680f"
-        },
-        {
-            "type": "java",
-            "name": "mathpower",
-            "request": "launch",
-            "mainClass": "mathpower",
-            "projectName": "DLithe-2024_ba53680f"
-        },
-        {
-            "type": "java",
-            "name": "precision",
-            "request": "launch",
-            "mainClass": "precision",
-            "projectName": "DLithe-2024_ba53680f"
-        },
-        {
-            "type": "java",
-            "name": "sqroot",
-            "request": "launch",
-            "mainClass": "sqroot",
-            "projectName": "DLithe-2024_ba53680f"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "twoSum",
+      "request": "launch",
+      "mainClass": "twoSum",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
+      "name": "split",
+      "request": "launch",
+      "mainClass": "split",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
+      "name": "unique",
+      "request": "launch",
+      "mainClass": "unique",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "atm",
+      "request": "launch",
+      "mainClass": "atm",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
+      "name": "evenodd",
+      "request": "launch",
+      "mainClass": "evenodd",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
+      "name": "math",
+      "request": "launch",
+      "mainClass": "math",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
+      "name": "mathpower",
+      "request": "launch",
+      "mainClass": "mathpower",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
+      "name": "precision",
+      "request": "launch",
+      "mainClass": "precision",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
+      "name": "sqroot",
+      "request": "launch",
+      "mainClass": "sqroot",
+      "projectName": "DLithe-2024_ba53680f"
+    }
+  ]
 }
