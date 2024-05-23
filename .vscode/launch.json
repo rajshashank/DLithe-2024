@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "isPrime",
+      "request": "launch",
+      "mainClass": "isPrime",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
+      "name": "powerOfTwo",
+      "request": "launch",
+      "mainClass": "powerOfTwo",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
       "name": "twoSum",
       "request": "launch",
       "mainClass": "twoSum",
