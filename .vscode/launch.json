@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "pattern",
+      "request": "launch",
+      "mainClass": "pattern",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
+      "name": "diffDigits",
+      "request": "launch",
+      "mainClass": "diffDigits",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
+      "name": "sameDigits",
+      "request": "launch",
+      "mainClass": "sameDigits",
+      "projectName": "DLithe-2024_ba53680f"
+    },
+    {
+      "type": "java",
       "name": "isPrime",
       "request": "launch",
       "mainClass": "isPrime",

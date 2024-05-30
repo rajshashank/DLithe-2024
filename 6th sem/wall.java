@@ -20,6 +20,13 @@ public class wall {
         sc.close();
     }
 
+    // static boolean checkWall(int s, int l, int w) {
+    //     int rl = w / 5; //required wall
+    //     int minl = Math.min(l, rl); //minimun large wall
+    //     int lw = w - (minl * 5); //large our wall minus large wall
+    //     return lw < s;
+    // }
+    
     static boolean checkWall(int s, int l, int w) {
         int rl = w / 5;  //required wall
         int minl = Math.min(l, rl);  //minimun large wall
